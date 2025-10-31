@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<Username>.github.io/<Repository-name>",
+  "homepage": "https://mchang2468/mchang2468.github.io",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
