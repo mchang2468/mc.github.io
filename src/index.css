@@ -174,10 +174,3 @@ nav{
   height: 250px;
   width: 200px;
 }
-
-h1, h2, h3, p, li, ul{
-  animation-duration: 3s;
-  animation-name: slide-in;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-}
